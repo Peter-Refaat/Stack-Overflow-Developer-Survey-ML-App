@@ -82,7 +82,7 @@ You do not need to manually configure environment variables or run multiple term
 ### Launching the Pipeline
 1. Clone or download this repository to your local machine.
 2. Navigate to the root directory of the project.
-3. Double-click the **`run.bat`** file.
+3. Double-click the **`start_project.bat`** file.
 
 **What the batch file does automatically:**
 * Creates and activates a local Python virtual environment (`.venv`).
